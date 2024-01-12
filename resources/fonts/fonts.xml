@@ -1,0 +1,4 @@
+<fonts>
+	<font id="customFont" filename="customTime.fnt" filter="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%:/-+, "/>
+	<font id="dateFont" filename="custom1.fnt" filter="ABC DEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%/-+:, "/>
+</fonts>

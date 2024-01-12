@@ -1,0 +1,7 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    
+    <bitmap id="buzz" filename="../images/GT.png" x="8%" y="center"/>
+    <label id="TimeLabel" x="26%" y="32%" font="@Fonts.customFont" justification="Graphics.TEXT_JUSTIFY_CENTER"  />
+    <label id="DateLabel" x="26%" y="22%" font="@Fonts.dateFont" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+</layout>
